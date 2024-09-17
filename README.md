@@ -1,5 +1,3 @@
-# PRODIGY_SD_03
-
 # PRODIGY_SD_03 Simple Contact Management System
 
 This Python-based Contact Management System, designed with Tkinter, provides a user-friendly interface to efficiently manage and organize contact information. Users can easily add, view, update, and delete contacts, making it a perfect tool for handling personal or professional contact lists.
